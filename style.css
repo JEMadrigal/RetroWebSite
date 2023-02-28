@@ -1,0 +1,51 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-image: url("gif2.gif");
+  background-size: cover;
+}
+
+#btn{
+  background-color: green;
+  font-size: 15px;
+}
+
+#tit{
+  text-align: center;
+  font-family: "Comic Sans MS", cursive;
+  font-size: 25px;
+  color: rgb(255,0,3);
+}
+
+.tablaI{
+  margin: 0 auto;
+}
+
+.titulos{
+  font-family: "Comic Sans MS", cursive;
+  font-size: 30px;
+  color: green;
+}
+
+#mexicana{
+  height: 170px;
+  width: 210px;
+}
+
+#ov7{
+  height: 170px;
+  width: 210px;
+}
+
+#mex{
+  height: 170px;
+  width: 210px;
+}
+
+.boton{
+  background-color: yellow;
+  font-size: 20px;
+}
